@@ -12,7 +12,8 @@ opportunities for more cinnamon rolls
 
 ### front burner
 
-- advise executives with predictions and reliable data feeds with team of amazing data professionals
+- advising executives with predictions and reliable data feeds with team of amazing data professionals
+- building ephemeral feature stores for the ML team
 - democratizing data analysis while ensuring data quality and data discoverability on the Azure data
 - stack with open-source tools
 
