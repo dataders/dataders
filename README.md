@@ -1,43 +1,39 @@
-# 👋
+# 👋 (me)
 
-## me
+for more info on what it's like to work with me, check out my new [WORKING_WITH_ME.md](/WORKING_WITH_ME.md)
 
 ### pronouns
 he/him/his
 
 ### raison d'etre
 opportunities for more cinnamon rolls
-
-## data 
+ 
+## Burners
 
 ### front burner
 
-- advising executives with predictions and reliable data feeds with team of amazing data professionals
-- building ephemeral feature stores for the ML team
-- democratizing data analysis while ensuring data quality and data discoverability on the Azure data
-- stack with open-source tools
+- learning to be a dad
+- buliding out dbt Lab's partner support adapter program
+- establishing a new life in Richmond, VA
+- data memes
 
 ### middle burner
-- consulting other data science teams in their journey to the cloud
-- the dbt-msft GitHub organization which works on:
-  - a pair of custom adapters for [dbt](https://www.getdbt.com/), [dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) and [dbt-synapse](https://github.com/dbt-msft/dbt-synapse)
-  - [tsql-utils](https://github.com/dbt-msft/tsql-utils), a shim package that makes great dbt packages also work for the microsoft stack
-  - (coming soon) a docs site for how to work with dbt using Azure SQL / Azure Synapse / and SQL Server
+- helping the dbt-msft team develop [dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) and [dbt-synapse](https://github.com/dbt-msft/dbt-synapse)
+- trying to become a better writer
 
 ### back burner
 
-- getting the [sqlfluff](https://github.com/sqlfluff/sqlfluff) parser & linter working for TSQL
+- making children's music playlists that don't suck
 
-### ask me about
+## ask me about
 
-
+- dbt!
+- SQL syntax differences across 10+ different databases
 - [azure machine learning service](https://stackoverflow.com/tags/azure-machine-learning-service/topusers)
 - [shilling](https://youtu.be/W8oOUPNaP5U) for [MSFT](https://mvp.microsoft.com/en-us/PublicProfile/5003930?fullName=Anders%20%20Swanson)
 - [pandas method chains](https://www.loom.com/share/31ab8e5f1018492c800d52a743ac98ee)
 - if my dog is a good boy
 
-
-    ![image](https://user-images.githubusercontent.com/8158673/119739702-9caa4e00-be50-11eb-877e-7f9229929815.png)
 
 
 <!--
