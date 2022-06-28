@@ -2,7 +2,7 @@
 
 I’ve been at dbt Labs for 6 months now. Lately, I’ve been reflecting on my experience acculturating to the organization and how I do my best work. One precept here is that of proactive communication. In the spirit of this, here’s an attempt to share how I work, think, and joke.
 
-This is the first draft, I’m unsure as to what information is most valuable here. Some of the things are immediately apparent upon working with me, and other things are 
+This is the first draft, I’m unsure as to what information is most valuable here. Some of the things are immediately apparent upon working with me, and you might not believe/observe some aspects for a while. 
 
  Major inspo credit to [Amy Nguyen](https://amy.dev/?p=979), [Adam Nathan](https://almanac.io/docs/ceo-user-guide-qgrX6JybtClEKUEGt96x5sMlzQLmRwPL), and [Tristan](https://www.notion.so/Working-with-Tristan-c7207974c30a4aaf809a6048ce73f897) (internal to dbt Labs)
 
@@ -22,7 +22,7 @@ Some good friends/colleagues have given me the following humorous and accurate d
 
 - I’m a math teacher and data practioner by trade, working at a SaaS startup is rather new!
 - I have deficit of Executive Function, planning and self-organizing are not my strong suits
-- I’m a [“no hello”](https://nohello.net/) stan
+- I’m a devotee of the [“no hello”](https://nohello.net/) movement. TL;DR. Don't DM me just "Hello", wait or me to respond, then DM me with what you want to tell/ask me. Just do it in one chunk!
 
 ## Motivators
 
@@ -51,7 +51,7 @@ I love conspiring with people and struggle without a feeling of collaboration. I
 - teaching and enabling others to do more
 - metaphorizing difficult concepts for better understanding
 - building relationships and connecting people
-- being “up-to-date” in the data industry, i.e. drinking hourly from the firehose of HN, Reddit, GitHub and Slack.
+- being “up-to-date” in the data industry, i.e. drinking hourly from the firehose of [HN](https://news.ycombinator.com/news`), [r/dataengineering](https://www.reddit.com/r/dataengineering/), GitHub, [Locally Optimistic Slack](https://locallyoptimistic.com/community/), and of course, the [dbt community Slack](https://www.getdbt.com/community/join-the-community/).
 - working at very high-levels and low-levels of abstraction (but I struggle to move between them)
 - Callback jokes (see what I did here?)
 
@@ -79,13 +79,15 @@ I few years ago when I was still working in-office, my working hours were normal
 
 It’s also worth calling out that I run 2-3 minutes late to meetings, and, for in-person events, I’m about 8-13 minutes late.
 
-My calendar reflects my up-to-date availability for chatting and meeting. I also use RescueTime to automatically update my Slack status to give people and idea of what I’m doing
+My calendar reflects my up-to-date availability for chatting and meeting. I also use RescueTime to automatically update my Slack status to give people and idea of what I’m doing. If you see the 🗞, DM me and tell me to get back to work! 🫠
 
 | Emoji | Activity | Program |
 | --- | --- | --- |
-| Notion | Reading & Writing | Notion,  |
-| 🗞 | Reading “News” | HN |
+| 📝 | Reading & Writing | Notion, GDrive |
+| 🗞 | Reading “News” | [HN](https://news.ycombinator.com/) Reddit, NYTimes |
 | 🖥️ | “Coding” | VSCode, GitHub, dbt Cloud, etc |
+| :calendar: / :handshake: | Meeting | VSCode, GitHub, dbt Cloud, etc |
+
 
 ## Style
 
