@@ -63,6 +63,7 @@ I’ve been diagnosed with and in treatment for ADHD since the age of 12. Howeve
 - making long-term plans
 - self-managing my time and dedicating chunks of time to “deep work” activities
 - holding myself accountable to deadlines and commitments
+- climbing my [wall of awful](https://www.youtube.com/watch?v=Uo08uS904Rg)
 - following up when folks ask me for “thoughts”
 - writing! (there’s a lot of planning and organization that goes into this, but I aspire to do better)
 - prooofreading 😜
