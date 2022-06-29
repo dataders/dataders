@@ -59,12 +59,12 @@ I love conspiring with people and struggle without a feeling of collaboration. I
 
 I’ve been diagnosed with and in treatment for ADHD since the age of 12. However, [Executive Dysfunction](https://www.additudemag.com/what-is-executive-function-disorder/) more closely describes my challenges. There’s a lot of skills that are bucketed into this cognitive disorder that affects the pre-frontal cortex, but in the context of work I’d say that I’m challenged in the following areas as a result:
 
-- executing on projects that I haven’t broken down into smaller pieces
+- executing on projects that I haven’t broken down into smaller pieces. helping me to do that is exceedingly helpful
 - making long-term plans
 - self-managing my time and dedicating chunks of time to “deep work” activities
 - holding myself accountable to deadlines and commitments
 - climbing my [wall of awful](https://www.youtube.com/watch?v=Uo08uS904Rg)
-- following up when folks ask me for “thoughts”
+- following up when folks ask me for “thoughts” -- I think I get overwhelmed at coherently providing all the helpful possible things. Perfect is the enemy of good, but I'm still learning that.
 - writing! (there’s a lot of planning and organization that goes into this, but I aspire to do better)
 - prooofreading 😜
 
