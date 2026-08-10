@@ -12,13 +12,16 @@ opportunities for more cinnamon rolls
 
 ### front burner
 
-- learning to be a dad
-- buliding out dbt Lab's partner support adapter program
-- establishing a new life in Richmond, VA
+- working to make the frontier of the data industry approachable and useful for everyone (DuckDB, Iceberg, dbt Core 2.0, etc)
+- fully AI-pilled: my [dotfiles](https://github.com/dataders/dotfiles) are an agentic-coding operations manual at this point
+- raising toddlers
+- daydreaming about building a [backyard ADU](https://adu.anders.omg.lol) in Richmond, VA
 - data memes
 
 ### middle burner
-- helping the dbt-msft team develop [dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) and [dbt-synapse](https://github.com/dbt-msft/dbt-synapse)
+- contributing to [duckdb-iceberg](https://github.com/duckdb/duckdb-iceberg)
+- the [fusion_issue_analysis bakeoff project](https://bakeoff.anders.omg.lol)
+- [James River Gooners](https://gooners.anders.omg.lol)
 - trying to become a better writer
 
 ### back burner
@@ -29,8 +32,10 @@ opportunities for more cinnamon rolls
 
 - dbt!
 - SQL syntax differences across 10+ different databases
-- [azure machine learning service](https://stackoverflow.com/tags/azure-machine-learning-service/topusers)
-- [shilling](https://youtu.be/W8oOUPNaP5U) for [MSFT](https://mvp.microsoft.com/en-us/PublicProfile/5003930?fullName=Anders%20%20Swanson)
+- why Iceberg and DuckDB are eating the data stack
+- dbt Fusion internals (it's written in Rust!)
+- what a genuinely cross-platform dbt future looks like
+- the competitive landscape in data tooling, and where it's headed next
 - [pandas method chains](https://www.loom.com/share/31ab8e5f1018492c800d52a743ac98ee)
 - if my dog is a good boy
 
