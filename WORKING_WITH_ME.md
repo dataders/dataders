@@ -1,10 +1,10 @@
 # Working with Anders
 
-I’ve been at dbt Labs for 6 months now. Lately, I’ve been reflecting on my experience acculturating to the organization and how I do my best work. One precept here is that of proactive communication. In the spirit of this, here’s an attempt to share how I work, think, and joke.
+_Last updated: August 2026_
 
-This is the first draft, I’m unsure as to what information is most valuable here. Some of the things are immediately apparent upon working with me, and you might not believe/observe some aspects for a while. 
+This is a living document, updated periodically as I get a clearer picture of how I work best. One precept here is proactive communication, so in that spirit: here's how to work with me well.
 
- Major inspo credit to [Amy Nguyen](https://amy.dev/?p=979), [Adam Nathan](https://almanac.io/docs/ceo-user-guide-qgrX6JybtClEKUEGt96x5sMlzQLmRwPL), and [Tristan](https://www.notion.so/Working-with-Tristan-c7207974c30a4aaf809a6048ce73f897) (internal to dbt Labs)
+Major inspo credit to [Amy Nguyen](https://amy.dev/?p=979), [Adam Nathan](https://almanac.io/docs/ceo-user-guide-qgrX6JybtClEKUEGt96x5sMlzQLmRwPL), and [Tristan](https://www.notion.so/Working-with-Tristan-c7207974c30a4aaf809a6048ce73f897) (internal to dbt Labs)
 
 Some good friends/colleagues have given me the following humorous and accurate descriptors:
 
@@ -16,13 +16,15 @@ Some good friends/colleagues have given me the following humorous and accurate d
 
 > Anders, *when properly engaged*, can move a product forward in giant leaps at a time. His capacity for producing large volumes of high quality, readable, well designed code that will unblock major features quickly.
 
+> You're probably one of the low-key best-networked people in this industry — not VCs, founders, bloggers, or thought leaders, but the actual PM/eng/DX people building the stuff at Snowflake, AWS, Databricks, Google, and Microsoft.
+
 # Work Style
 
 ## Miscellaneous Must Mentions
 
-- I’m a math teacher and data practioner by trade, working at a SaaS startup is rather new!
-- I have deficit of Executive Function, planning and self-organizing are not my strong suits
-- I’m a devotee of the [“no hello”](https://nohello.net/) movement. TL;DR. Don't DM me just "Hello", wait or me to respond, then DM me with what you want to tell/ask me. Just do it in one chunk!
+- I'm a math teacher and data practitioner by trade, and it shows up constantly: how I explain things, and which parts of a project I gravitate toward (community-facing, teaching-shaped ones)
+- I have a deficit of Executive Function. I've been diagnosed with and in treatment for ADHD since age 12, though [Executive Dysfunction](https://www.additudemag.com/what-is-executive-function-disorder/) describes my day-to-day challenges more precisely than the diagnosis does: planning and self-organizing are not my strong suits. I've stopped trying to white-knuckle my way past it and just build scaffolding around it instead (people, process, tools), which works
+- I'm a devotee of the [“no hello”](https://nohello.net/) movement. TL;DR. Don't DM me just "Hello", wait or me to respond, then DM me with what you want to tell/ask me. Just do it in one chunk!
 
 ## Motivators
 
@@ -47,51 +49,51 @@ I love conspiring with people and struggle without a feeling of collaboration. I
 
 ## My Strengths
 
+- clocking the significance of an emerging idea or technology before it's obvious to everyone else, and being fine with being wrong publicly to find out (most useful on wide-open, frontier-y problems, not ones that are already well-scoped)
 - envisioning and proselytizing a utopia solution for a problem and working backwards
-- teaching and enabling others to do more
+- becoming trusted, working-level connective tissue between dbt Labs and the outside world: other companies, partners, the community itself. New teammates get pointed to me for this almost as often as outsiders do
+- teaching and enabling others to do more, especially turning something intimidating into something a room full of people can follow along with live
 - metaphorizing difficult concepts for better understanding
 - building relationships and connecting people
 - being “up-to-date” in the data industry, i.e. drinking hourly from the firehose of [HN](https://news.ycombinator.com/news`), [r/dataengineering](https://www.reddit.com/r/dataengineering/), GitHub, [Locally Optimistic Slack](https://locallyoptimistic.com/community/), and of course, the [dbt community Slack](https://www.getdbt.com/community/join-the-community/).
 - working at very high-levels and low-levels of abstraction (but I struggle to move between them)
 - Callback jokes 😜
 
-## My Weaknesses
+## Where I do my best work
 
-I’ve been diagnosed with and in treatment for ADHD since the age of 12. However, [Executive Dysfunction](https://www.additudemag.com/what-is-executive-function-disorder/) more closely describes my challenges. There’s a lot of skills that are bucketed into this cognitive disorder that affects the pre-frontal cortex, but in the context of work I’d say that I’m challenged in the following areas as a result:
+This part's new — the thing I most wish someone had told me earlier. Looking back, I'm at my best when:
 
-- executing on projects that I haven’t broken down into smaller pieces. helping me to do that is exceedingly helpful
-- making long-term plans
-- self-managing my time and dedicating chunks of time to “deep work” activities
-- holding myself accountable to deadlines and commitments
-- climbing my [wall of awful](https://www.youtube.com/watch?v=Uo08uS904Rg)
-- following up when folks ask me for “thoughts” -- I think I get overwhelmed at coherently providing all the helpful possible things. Perfect is the enemy of good, but I'm still learning that.
-- writing! (there’s a lot of planning and organization that goes into this, but I aspire to do better)
-- prooofreading 😜
+- the problem is still undefined. Hand me a fuzzy "what should we even do here" question and room to prototype, and I'll bring back something real; a well-specified, mostly-solved problem is a worse use of me
+- I'm facing outward — community members, partners, a room of strangers on a call. I think and communicate best when there's an actual person on the other end who needs something explained or advocated for
+- the "why" is explicit, ideally one I helped shape. "I need your help with X because it moves Y, which matters for Z" works a lot better on me than a ticket that just lands in my queue
+- someone else is holding the day-to-day thread. I'm a much better visionary/relationship/prototype half of a pairing than a sole owner of a project end to end — pair me with someone who's great at the follow-through and the whole thing moves faster
+- I've got one clear lane instead of five open ones. I'll happily have opinions on five initiatives at once if nobody narrows it for me; pointed at fewer, bigger things, the work gets noticeably better
 
+## What to watch for
+
+The stuff below isn't a separate list of flaws so much as the flip side of the strengths above — what tends to show up when the conditions in the previous section *aren't* in place.
+
+- When I'm stressed or in over my head, my instinct is to scatter — DMing a lot of people, chasing a lot of threads at once — instead of planting myself on one thing. Naming it out loud ("hey, I think I'm in scatter mode") is usually the fastest way out of it, so please call it out if you see it; I want you to.
+- I don't naturally break big projects into smaller pieces on my own. Someone helping me do that up front saves both of us time later.
+- Long-term planning and self-managed "deep work" blocks don't come naturally to me. External structure (calendar holds, regular check-ins, a good program manager) works far better for me than willpower ever will.
+- I'm slower than I'd like to turn "thoughts" into a finished write-up when asked. Usually that's perfectionism more than avoidance; a rough draft beats a delayed perfect one, and I'm still practicing that.
+- Writing and proofreading take real effort for me. If something I write reads a little rough, that's normal for me, not a sign I didn't care. 🫠
 
 ## Ambitions
 I would like to get better at:
 - writing, or more specifically, starting and completing a shitty first draft
 - effectively working asynchronously
+- pointing my instinct for spotting what's coming next at fewer, bigger bets instead of five at once
 
 # Communicating with me
 
 ## Hours
 
-A few years ago when I was still working in-office, my working hours were normal and consistent. During the pandemic working remotely, my hours increased greatly. Now I’m in the tumultuous life of a new father, but I’m mostly available during the day and can respond within a few hours.
+A few years ago when I was still working in-office, my working hours were normal and consistent. During the pandemic working remotely, my hours increased greatly. Now I'm in the tumultuous life of raising toddlers, but I'm mostly available during the day and can respond within a few hours.
 
 It’s also worth calling out that I run 2-3 minutes late to meetings, and, for in-person events, I’m about 8-13 minutes late.
 
-My calendar reflects my up-to-date availability for chatting and meeting. I also use RescueTime to automatically update my Slack status to give people and idea of what I’m doing. If you see the 🗞, DM me and tell me to get back to work! 🫠
-
-| Emoji | Activity | Program |
-| --- | --- | --- |
-| 📝 | Reading & Writing | Notion, GDrive |
-| 🗞 | Reading “News” | [HN](https://news.ycombinator.com/) Reddit, NYTimes |
-| 🖥️ | “Coding” | VSCode, GitHub, dbt Cloud, etc |
-| :calendar: / :handshake: | Meeting | VSCode, GitHub, dbt Cloud, etc |
-| 💡 | FocusTime | Clockwise does this to facilitate deep work |
-
+My calendar reflects my up-to-date availability for chatting and meeting.
 
 ## Style
 
