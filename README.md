@@ -1,6 +1,6 @@
 # 👋 (me)
 
-for more info on what it's like to work with me, check out my new [WORKING_WITH_ME.md](/WORKING_WITH_ME.md)
+I work on open source data tools. My [portfolio](https://anders.omg.lol/) has selected work, writing, and talks. For what it’s like to work with me, see [WORKING_WITH_ME.md](WORKING_WITH_ME.md).
 
 ### pronouns
 he/him/his
@@ -20,6 +20,7 @@ opportunities for more cinnamon rolls
 
 ### middle burner
 - contributing to [duckdb-iceberg](https://github.com/duckdb/duckdb-iceberg)
+- [Crawl Atlas / Dungeon Crawler’s Lookbook](https://crawl-atlas.anders.omg.lol/), a reading companion built with dbt Charts
 - the [fusion_issue_analysis bakeoff project](https://bakeoff.anders.omg.lol)
 - [James River Gooners](https://gooners.anders.omg.lol)
 - trying to become a better writer
