@@ -1,6 +1,6 @@
 # 👋 (me)
 
-I work on open source data tools. My [portfolio](https://anders-swanson-portfolio.swanson-anders.chatgpt.site/) has selected work, writing, and talks. For what it’s like to work with me, see [WORKING_WITH_ME.md](WORKING_WITH_ME.md).
+I work on open source data tools. My [portfolio](https://anders.omg.lol/) has selected work, writing, and talks. For what it’s like to work with me, see [WORKING_WITH_ME.md](WORKING_WITH_ME.md).
 
 ### pronouns
 he/him/his
