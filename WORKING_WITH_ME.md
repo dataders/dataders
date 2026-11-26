@@ -49,6 +49,8 @@ I love conspiring with people and struggle without a feeling of collaboration. I
 
 ## My Strengths
 
+Someone once told me I spot connections others miss. They joked that my vector space has more dimensions than theirs.
+
 - clocking the significance of an emerging idea or technology before it's obvious to everyone else, and being fine with being wrong publicly to find out (most useful on wide-open, frontier-y problems, not ones that are already well-scoped)
 - envisioning and proselytizing a utopia solution for a problem and working backwards
 - becoming trusted, working-level connective tissue between dbt Labs and the outside world: other companies, partners, the community itself. New teammates get pointed to me for this almost as often as outsiders do
